@@ -1,4 +1,6 @@
 ## Hi there 👋
+![Top Langs](https://github-stats.tsukimi.dev/stats/language)
+
 
 <!--
 **blck-snwmn/blck-snwmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
