@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-![Recent language](https://github-stats.tsukimi.dev/stats/recent-languages)
-
-![Top Langs](https://github-stats.tsukimi.dev/stats/language)
-
-![Recent repos](https://github-stats.tsukimi.dev/stats/recent-repos)
+<p align="center">
+  <img src="https://github-stats.tsukimi.dev/stats/recent-languages" width="32%" />
+  <img src="https://github-stats.tsukimi.dev/stats/language" width="32%" />
+  <img src="https://github-stats.tsukimi.dev/stats/recent-repos" width="32%" />
+</p>
 
 <!--
 **blck-snwmn/blck-snwmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
