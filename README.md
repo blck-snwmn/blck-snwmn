@@ -4,7 +4,7 @@
   <img src="https://github-stats.tsukimi.dev/stats/recent-languages" width="49%" />
   <img src="https://github-stats.tsukimi.dev/stats/language" width="49%" />
 </p>
-<p align="center">
+<p align="left">
   <img src="https://github-stats.tsukimi.dev/stats/recent-repos" width="49%" />
 </p>
 
